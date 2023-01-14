@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://parxism.github.io/sitemap.xml

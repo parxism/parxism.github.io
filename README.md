@@ -1,1 +1,1 @@
-# parxism.github.io
+배움의 여정과 열정이 있는 공간입니다
