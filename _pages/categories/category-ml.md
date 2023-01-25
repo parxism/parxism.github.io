@@ -1,7 +1,7 @@
 ---
 title: "Convolutional Neural Network, 사고하는 기계."
 layout: archive
-permalink: categories/cnn
+permalink: categories/ml
 author_profile: true
 sidebar_main: true
 ---
@@ -10,5 +10,5 @@ sidebar_main: true
 
 ***
 
-{% assign posts = site.categories.CNN %}
+{% assign posts = site.categories.ML %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
