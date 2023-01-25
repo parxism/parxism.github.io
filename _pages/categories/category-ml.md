@@ -1,5 +1,5 @@
 ---
-title: "Convolutional Neural Network, 사고하는 기계."
+title: "Machine Learning, 사고하는 기계."
 layout: archive
 permalink: categories/ml
 author_profile: true
